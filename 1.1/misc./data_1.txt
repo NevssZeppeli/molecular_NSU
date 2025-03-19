@@ -1,0 +1,162 @@
+series_4_0001.jpg 667 374
+series_4_0002.jpg 664 375
+series_4_0003.jpg 664 375
+series_4_0005.jpg 675 378
+series_4_0006.jpg 686 365
+series_4_0007.jpg 696 381
+series_4_0008.jpg 681 375
+series_4_0009.jpg 672 378
+series_4_0010.jpg 669 374
+series_4_0011.jpg 675 378
+series_4_0012.jpg 655 364
+series_4_0013.jpg 653 351
+series_4_0014.jpg 648 342
+series_4_0015.jpg 646 352
+series_4_0016.jpg 647 352
+series_4_0017.jpg 653 359
+series_4_0018.jpg 648 348
+series_4_0019.jpg 651 355
+series_4_0020.jpg 651 355
+series_4_0021.jpg 654 353
+series_4_0022.jpg 670 359
+series_4_0023.jpg 680 375
+series_4_0024.jpg 677 384
+series_4_0025.jpg 679 387
+series_4_0026.jpg 682 383
+series_4_0027.jpg 697 377
+series_4_0028.jpg 682 389
+series_4_0029.jpg 697 381
+series_4_0030.jpg 691 376
+series_4_0031.jpg 682 376
+series_4_0032.jpg 690 364
+series_4_0033.jpg 697 369
+series_4_0034.jpg 705 372
+series_4_0035.jpg 693 369
+series_4_0036.jpg 687 373
+series_4_0037.jpg 705 374
+series_4_0038.jpg 694 384
+series_4_0039.jpg 693 396
+series_4_0040.jpg 681 405
+series_4_0041.jpg 695 406
+series_4_0042.jpg 700 400
+series_4_0043.jpg 702 393
+series_4_0044.jpg 707 395
+series_4_0045.jpg 701 388
+series_4_0046.jpg 699 398
+series_4_0047.jpg 699 400
+series_4_0048.jpg 697 411
+series_4_0049.jpg 694 412
+series_4_0050.jpg 697 430
+series_4_0051.jpg 700 420
+series_4_0052.jpg 684 423
+series_4_0053.jpg 684 424
+series_4_0054.jpg 695 433
+series_4_0055.jpg 689 416
+series_4_0056.jpg 687 405
+series_4_0057.jpg 684 426
+series_4_0058.jpg 695 415
+series_4_0059.jpg 684 414
+series_4_0060.jpg 691 421
+series_4_0061.jpg 680 415
+series_4_0062.jpg 672 422
+series_4_0063.jpg 693 423
+series_4_0064.jpg 702 408
+series_4_0065.jpg 702 408
+series_4_0066.jpg 694 405
+series_4_0067.jpg 692 400
+series_4_0068.jpg 690 391
+series_4_0069.jpg 706 405
+series_4_0070.jpg 693 403
+series_4_0071.jpg 688 400
+series_4_0072.jpg 693 411
+series_4_0073.jpg 690 408
+series_4_0074.jpg 711 407
+series_4_0075.jpg 705 393
+series_4_0076.jpg 712 398
+series_4_0077.jpg 710 407
+series_4_0078.jpg 724 402
+series_4_0079.jpg 708 390
+series_4_0080.jpg 708 390
+series_4_0081.jpg 717 393
+series_4_0082.jpg 725 398
+series_4_0083.jpg 731 389
+series_4_0084.jpg 722 389
+series_4_0085.jpg 722 399
+series_4_0086.jpg 708 405
+series_4_0087.jpg 715 393
+series_4_0088.jpg 720 383
+series_4_0089.jpg 728 373
+series_4_0090.jpg 721 377
+series_4_0091.jpg 733 391
+series_4_0092.jpg 741 390
+series_4_0093.jpg 750 404
+series_4_0094.jpg 746 398
+series_4_0095.jpg 750 384
+series_4_0096.jpg 756 387
+series_4_0097.jpg 756 375
+series_4_0098.jpg 762 371
+series_4_0099.jpg 756 384
+series_4_0100.jpg 742 369
+series_4_0101.jpg 753 377
+series_4_0102.jpg 745 387
+series_4_0103.jpg 735 384
+series_4_0104.jpg 726 378
+series_4_0105.jpg 722 383
+series_4_0106.jpg 732 393
+series_4_0107.jpg 746 384
+series_4_0108.jpg 758 408
+series_4_0109.jpg 755 403
+series_4_0110.jpg 765 394
+series_4_0111.jpg 761 385
+series_4_0112.jpg 765 408
+series_4_0113.jpg 774 400
+series_4_0114.jpg 764 402
+series_4_0115.jpg 777 401
+series_4_0116.jpg 777 401
+series_4_0117.jpg 769 394
+series_4_0118.jpg 765 380
+series_4_0119.jpg 771 392
+series_4_0120.jpg 766 384
+series_4_0121.jpg 774 384
+series_4_0122.jpg 774 374
+series_4_0123.jpg 786 372
+series_4_0124.jpg 786 372
+series_4_0125.jpg 780 364
+series_4_0126.jpg 783 347
+series_4_0127.jpg 780 343
+series_4_0128.jpg 784 345
+series_4_0129.jpg 784 338
+series_4_0130.jpg 780 341
+series_4_0131.jpg 771 350
+series_4_0132.jpg 778 349
+series_4_0133.jpg 776 370
+series_4_0134.jpg 783 357
+series_4_0135.jpg 792 360
+series_4_0136.jpg 773 357
+series_4_0137.jpg 770 353
+series_4_0138.jpg 784 353
+series_4_0139.jpg 793 346
+series_4_0140.jpg 799 337
+series_4_0141.jpg 784 332
+series_4_0142.jpg 784 332
+series_4_0143.jpg 784 332
+series_4_0144.jpg 793 338
+series_4_0145.jpg 803 354
+series_4_0146.jpg 787 367
+series_4_0147.jpg 790 378
+series_4_0148.jpg 791 381
+series_4_0149.jpg 792 385
+series_4_0150.jpg 793 372
+series_4_0151.jpg 793 372
+series_4_0152.jpg 793 372
+series_4_0153.jpg 775 375
+series_4_0154.jpg 767 382
+series_4_0155.jpg 774 378
+series_4_0156.jpg 765 370
+series_4_0157.jpg 768 356
+series_4_0158.jpg 772 355
+series_4_0159.jpg 781 371
+series_4_0160.jpg 787 363
+series_4_0161.jpg 792 365
+series_4_0162.jpg 802 361
+

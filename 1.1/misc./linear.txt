@@ -1,0 +1,10 @@
+linear_2_0001.jpg 24 148
+linear_2_0001.jpg 121 148
+linear_2_0001.jpg 216 152
+linear_2_0001.jpg 321 154
+linear_2_0001.jpg 415 156
+linear_2_0001.jpg 516 156
+linear_2_0001.jpg 616 156
+linear_2_0001.jpg 713 159
+linear_2_0001.jpg 815 159
+
